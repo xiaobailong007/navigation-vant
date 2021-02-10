@@ -104,7 +104,7 @@ a:active {
 
       p {
         line-height: 0;
-        font-size: 0.12rem;
+        font-size: 0.2rem;
         line-height: 0.5rem;
         overflow: hidden;
         text-overflow: ellipsis;

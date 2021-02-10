@@ -1,10 +1,9 @@
 <template>
   <div class="search">
-    <van-image
-      width="100"
-      height="100"
-      src="https://img01.yzcdn.cn/vant/cat.jpeg"
-    />
+    <!-- 搜索logo -->
+    <div class="logo" v-model="method_1">
+      <van-image width="50%" height="100%" :src="method_1[0].img_src" alt="" />
+    </div>
     <van-search v-model="value" placeholder="请输入搜索内容" />
   </div>
 </template>
@@ -21,6 +20,12 @@ export default {
   data() {
     return {
       value: "",
+      method_1: [
+        {
+          name: "谷歌搜索",
+          img_src: "/static/images/google.png",
+        },
+      ],
     };
   },
   methods: {
@@ -35,6 +40,12 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
 .search {
   width: 100%;
   display: flex;
