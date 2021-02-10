@@ -1,0 +1,1774 @@
+{
+  "boxList": [{
+      "name": "Design",
+      "class": "el-icon-aliDesign",
+      "text": "设计资源",
+      "list": [{
+          "href": "https://www.58pic.com/",
+          "src": "/static/images/千图网.ico",
+          "name": "千图网",
+          "text": "设计素材"
+        },
+        {
+          "href": "http://www.51yuansu.com/",
+          "src": "/static/images/觅元素.ico",
+          "name": "觅元素",
+          "text": "设计素材"
+        },
+        {
+          "href": "https://ibaotu.com/",
+          "src": "/static/images/包图网.ico",
+          "name": "包图网",
+          "text": "设计素材"
+        },
+        {
+          "href": "http://www.nipic.com/",
+          "src": "/static/images/昵图网.ico",
+          "name": "昵图网",
+          "text": "设计素材"
+        },
+        {
+          "href": "http://699pic.com/",
+          "src": "/static/images/摄图网.ico",
+          "name": "摄图网",
+          "text": "设计素材"
+        },
+        {
+          "href": "https://www.6pian.cn/",
+          "src": "/static/images/牛片网.ico",
+          "name": "牛片网",
+          "text": "短视频素材"
+        },
+        {
+          "href": "https://huaban.com/",
+          "src": "/static/images/花瓣.ico",
+          "name": "花瓣",
+          "text": "设计灵感"
+        },
+        {
+          "href": "https://cc.oceanengine.com/",
+          "src": "/static/images/巨量创意.png",
+          "name": "巨量创意",
+          "text": "设计灵感"
+        },
+        {
+          "href": "https://www.pinterest.com/?autologin=true",
+          "src": "/static/images/Pinterest.png",
+          "name": "Pinterest",
+          "text": "设计灵感"
+        },
+        {
+          "href": "https://www.instagram.com/explore/",
+          "src": "/static/images/Instagram.ico",
+          "name": "Instagram",
+          "text": "设计灵感"
+        },
+        {
+          "href": "https://dribbble.com/",
+          "src": "/static/images/DeviantART.ico",
+          "name": "DeviantART",
+          "text": "设计素材"
+        },
+        {
+          "href": "https://www.deviantart.com/",
+          "src": "/static/images/Dribbble.ico",
+          "name": "Dribbble",
+          "text": "设计素材"
+        },
+        {
+          "href": "https://store.eqxiu.com/",
+          "src": "/static/images/易企秀.ico",
+          "name": "易企秀",
+          "text": "H5模板"
+        },
+        {
+          "href": "https://www.iconfont.cn/",
+          "src": "/static/images/iconfont.ico",
+          "name": "Iconfont",
+          "text": "矢量图标"
+        },
+        {
+          "href": "https://www.hellofont.cn/",
+          "src": "/static/images/字由.ico",
+          "name": "字由",
+          "text": "设计师必备字体利器"
+        }
+      ]
+    },
+    {
+      "name": "Study",
+      "class": "el-icon-aliLearn",
+      "text": "学无止境",
+      "list": [{
+          "href": "https://huke88.com/",
+          "src": "/static/images/虎克网.png",
+          "name": "虎克网",
+          "text": "设计学习网站"
+        },
+        {
+          "href": "https://shida66.com/",
+          "src": "/static/images/视达网.ico",
+          "name": "视达网",
+          "text": "设计学习网站"
+        },
+        {
+          "href": "https://www.zcool.com.cn/",
+          "src": "/static/images/站酷网.ico",
+          "name": "站酷网",
+          "text": "设计学习网站"
+        },
+        {
+          "href": "https://www.51zxw.net/",
+          "src": "/static/images/我要自学网.ico",
+          "name": "我要自学网",
+          "text": "设计学习网站"
+        },
+        {
+          "href": "https://study.163.com/",
+          "src": "/static/images/网易云课堂.ico",
+          "name": "网易云课堂",
+          "text": "程序员学习网站"
+        },
+        {
+          "href": "https://www.imooc.com/",
+          "src": "/static/images/慕课网.ico",
+          "name": "慕课网",
+          "text": "程序员学习网站"
+        },
+        {
+          "href": "https://next.xuetangx.com/",
+          "src": "/static/images/学堂在线.ico",
+          "name": "学堂在线",
+          "text": "程序员学习网站"
+        },
+        {
+          "href": "https://www.nowcoder.com/",
+          "src": "/static/images/牛客网.ico",
+          "name": "牛客网",
+          "text": "程序员面试学习网站"
+        },
+        {
+          "href": "https://leetcode-cn.com/",
+          "src": "/static/images/力扣.ico",
+          "name": "力扣",
+          "text": "程序员算法学习网站"
+        },
+        {
+          "href": "https://blog.poetries.top/FE-Interview-Questions/docs/base.html",
+          "src": "/static/images/FE-Interview.png",
+          "name": "FE-Interview",
+          "text": "程序员面试学习网站"
+        },
+        {
+          "href": "http://www.xiachufang.com/",
+          "src": "/static/images/下厨房.ico",
+          "name": "下厨房",
+          "text": "学习厨艺的好地方"
+        },
+        {
+          "href": "https://www.icourse163.org/",
+          "src": "/static/images/中国大学.png",
+          "name": "中国大学",
+          "text": "大学公开课"
+        }
+      ]
+    },
+    {
+      "name": "Software",
+      "class": "el-icon-aliResources",
+      "text": "软件资源",
+      "list": [{
+          "href": "https://next.itellyou.cn/",
+          "src": "/static/images/MSDN.ico",
+          "name": "MSDN我告诉你",
+          "text": "windows官方系统与Office"
+        },
+        {
+          "href": "https://www.52pojie.cn/forum-16-1.html",
+          "src": "/static/images/吾爱破解.ico",
+          "name": "吾爱破解",
+          "text": "软件破解"
+        },
+        {
+          "href": "https://weibo.com/vposy?refer_flag=1001030103_&is_all=1",
+          "src": "/static/images/Adobe.ico",
+          "name": "Adobe全家桶",
+          "text": "软件破解"
+        },
+        {
+          "href": "http://www.yishimei.cn/",
+          "src": "/static/images/GitHub.ico",
+          "name": "亦是美网络",
+          "text": "软件破解"
+        },
+        {
+          "href": "https://www.ghpym.com/",
+          "src": "/static/images/果核剥壳.ico",
+          "name": "果核剥壳",
+          "text": "破解软件"
+        },
+        {
+          "href": "http://www.dayanzai.me/",
+          "src": "/static/images/大眼仔.ico",
+          "name": "大眼仔",
+          "text": "破解软件"
+        },
+        {
+          "href": "http://www.carrotchou.blog/",
+          "src": "/static/images/胡萝卜周.jpg",
+          "name": "胡萝卜周",
+          "text": "破解软件"
+        },
+        {
+          "href": "https://www.itjc8.com/forum.php?gid=1",
+          "src": "/static/images/IT教程吧.ico",
+          "name": "IT教程吧",
+          "text": "IT学习资源"
+        },
+        {
+          "href": "https://www.binfoo.com/",
+          "src": "/static/images/宾否.ico",
+          "name": "宾否",
+          "text": "IT学习资源"
+        },
+        {
+          "href": "http://www.51xuebc.com/portal.php",
+          "src": "/static/images/程序员.ico",
+          "name": "程序员",
+          "text": "IT学习资源"
+        },
+        {
+          "href": "https://pan.baidu.com/disk/home?#/all?path=%2F&vmode=list",
+          "src": "/static/images/百度网盘.ico",
+          "name": "百度网盘",
+          "text": "国内最好的网盘"
+        }
+      ]
+    },
+    {
+      "name": "Docs",
+      "class": "el-icon-aliDocumentation",
+      "text": "参考文档",
+      "list": [{
+          "href": "https://docschina.org/",
+          "src": "/static/images/印记中文.ico",
+          "name": "印记中文",
+          "text": "文档集合"
+        },
+        {
+          "href": "https://www.w3school.com.cn/",
+          "src": "/static/images/w3school.png",
+          "name": "w3school",
+          "text": "文档集合"
+        },
+        {
+          "href": "https://developer.mozilla.org/zh-CN/",
+          "src": "/static/images/MDN.png",
+          "name": "MDN",
+          "text": "文档集合"
+        },
+        {
+          "href": "https://guide.aotu.io/docs/html/code.html",
+          "src": "/static/images/京东代码规范.png",
+          "name": "凹凸实验室",
+          "text": "京东代码规范"
+        },
+        {
+          "href": "https://tgideas.qq.com/doc/frontend/spec/common/",
+          "src": "/static/images/腾讯代码规范.ico",
+          "name": "TGideas",
+          "text": "腾讯代码规范"
+        },
+        {
+          "href": "https://www.sass.hk/",
+          "src": "/static/images/Sass.ico",
+          "name": "Sass",
+          "text": "CSS扩展语言"
+        },
+        {
+          "href": "https://daneden.github.io/animate.css/",
+          "src": "/static/images/GitHub.ico",
+          "name": "Animate",
+          "text": "CSS动画库"
+        },
+        {
+          "href": "https://chokcoco.github.io/CSS-Inspiration/#/./init",
+          "src": "/static/images/CSS-Inspiration.png",
+          "name": "CSS-Inspiration",
+          "text": "CSS灵感"
+        },
+        {
+          "href": "http://css-tricks.neatbang.com/",
+          "src": "/static/images/CSS-Tricks.png",
+          "name": "CSS-Tricks",
+          "text": "CSS灵感"
+        },
+        {
+          "href": "https://animista.net/",
+          "src": "/static/images/Animista.ico",
+          "name": "Animista",
+          "text": "CSS动画定制"
+        },
+        {
+          "href": "https://lhammer.cn/You-need-to-know-css/#/zh-cn/introduce?v=1",
+          "src": "/static/images/You-need-to-know-css.ico",
+          "name": "know-css",
+          "text": "CSS灵感"
+        },
+        {
+          "href": "https://www.layui.com/doc/",
+          "src": "/static/images/layui.ico",
+          "name": "LaYui",
+          "text": "前端 UI 框架"
+        },
+        {
+          "href": "https://www.bootcss.com/",
+          "src": "/static/images/Bootstrap.ico",
+          "name": "Bootstrap",
+          "text": "响应式前端框架"
+        },
+        {
+          "href": "https://jquery.cuishifeng.cn/",
+          "src": "/static/images/jQuery.ico",
+          "name": "jQuery",
+          "text": "入门级js工具库"
+        },
+        {
+          "href": "http://www.jq22.com/",
+          "src": "/static/images/jQuery插件库.ico",
+          "name": "jQuery插件库",
+          "text": "jQuery插件库"
+        },
+        {
+          "href": "https://www.swiper.com.cn/api/index.html",
+          "src": "/static/images/Swiper.ico",
+          "name": "Swiper",
+          "text": "内容触摸滑动插件"
+        },
+        {
+          "href": "https://echarts.apache.org/zh/tutorial.html#5%20%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8B%20ECharts",
+          "src": "/static/images/ECharts.png",
+          "name": "ECharts",
+          "text": "JS图形库"
+        },
+        {
+          "href": "https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene",
+          "src": "/static/images/Three.ico",
+          "name": "Three.js",
+          "text": "JS三维模型框架"
+        },
+        {
+          "href": "https://es6.ruanyifeng.com/#README",
+          "src": "/static/images/ES6.ico",
+          "name": "ES6",
+          "text": "ECMAScript 6 入门教程"
+        },
+        {
+          "href": "https://vuejs.org/",
+          "src": "/static/images/Vue.png",
+          "name": "Vue",
+          "text": "渐进式前端框架"
+        },
+        {
+          "href": "https://zh-hans.reactjs.org/tutorial/tutorial.html",
+          "src": "/static/images/React.ico",
+          "name": "React",
+          "text": "用于构建用户界面的js库"
+        },
+        {
+          "href": "https://umijs.org/zh-CN/docs/getting-started",
+          "src": "/static/images/UmiJS.svg",
+          "name": "UmiJS",
+          "text": "可扩展的企业级前端应用程序框架"
+        },
+        {
+          "href": "https://hexo.io/zh-cn/docs/",
+          "src": "/static/images/Hexo.png",
+          "name": "Hexo",
+          "text": "博客框架"
+        },
+        {
+          "href": "https://vuepress.vuejs.org/zh/",
+          "src": "/static/images/VuePress.png",
+          "name": "VuePress",
+          "text": "VuePress 博客"
+        },
+        {
+          "href": "https://vuepress-theme-reco.recoluan.com/",
+          "src": "/static/images/vuepress-theme-reco.png",
+          "name": "VuePresss-theme-reco",
+          "text": "VuePress 博客主题"
+        },
+        {
+          "href": "https://uniapp.dcloud.io/component/README",
+          "src": "/static/images/Uni-app.png",
+          "name": "Uni-app",
+          "text": "跨平台框架"
+        },
+        {
+          "href": "https://youzan.github.io/vant/#/zh-CN/intro",
+          "src": "/static/images/Vant.ico",
+          "name": "Vant",
+          "text": "移动端框架"
+        },
+        {
+          "href": "https://element.eleme.cn/#/zh-CN/component/installation",
+          "src": "/static/images/Element.ico",
+          "name": "Element",
+          "text": "PC响应式框架"
+        },
+        {
+          "href": "https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD",
+          "src": "/static/images/vue-element-admin.ico",
+          "name": "vue-element-admin",
+          "text": "后台前端解决方案"
+        },
+        {
+          "href": "https://2x.antdv.com/docs/vue/introduce-cn/",
+          "src": "/static/images/Ant-Design.ico",
+          "name": "Ant Design of Vue",
+          "text": "PC响应式框架"
+        },
+        {
+          "href": "https://www.nuxtjs.cn/guide/installation",
+          "src": "/static/images/NuxtJS.ico",
+          "name": "NuxtJS",
+          "text": "VUE框架"
+        },
+
+        {
+          "href": "https://mp.weixin.qq.com",
+          "src": "/static/images/微信公众平台.ico",
+          "name": "微信公众平台",
+          "text": "微信小程序、公众号"
+        },
+        {
+          "href": "https://developers.weixin.qq.com/miniprogram/dev/framework/",
+          "src": "/static/images/微信公众平台.ico",
+          "name": "微信官方文档",
+          "text": "微信官方文档"
+        },
+        {
+          "href": "https://doc.mini.talelin.com/start/",
+          "src": "/static/images/Lin-UI.ico",
+          "name": "Lin-UI",
+          "text": "原生微信小程序框架"
+        },
+        {
+          "href": "https://eggjs.org/en/intro/quickstart.html",
+          "src": "/static/images/Eggjs.png",
+          "name": "Eggjs",
+          "text": "nodejs框架"
+        },
+        {
+          "href": "https://electronjs.org/docs",
+          "src": "/static/images/Electron.ico",
+          "name": "Electron",
+          "text": "桌面js框架"
+        },
+        {
+          "href": "https://nodejs.org/zh-cn/",
+          "src": "/static/images/node.ico",
+          "name": "Node",
+          "text": "JavaScript运行环境"
+        },
+        {
+          "href": "https://www.webpackjs.com/",
+          "src": "/static/images/webpack.ico",
+          "name": "Webpack",
+          "text": "打包工具"
+        },
+        {
+          "href": "https://docs.v2board.com/",
+          "src": "/static/images/V2Board.png",
+          "name": "V2Board",
+          "text": "V2ray机场前端文档"
+        },
+        {
+          "href": "https://github.com/ColetteContreras/v2ray-poseidon",
+          "src": "/static/images/GitHub.ico",
+          "name": "V2ray-Poseidon",
+          "text": "V2ray机场后端文档"
+        },
+        {
+          "href": "https://github.com/sprov065/soga/wiki",
+          "src": "/static/images/GitHub.ico",
+          "name": "Soga",
+          "text": "V2ray机场后端文档"
+        }
+      ]
+    },
+    {
+      "name": "Development-Community",
+      "class": "el-icon-aliTool",
+      "text": "开发社区",
+      "list": [{
+          "href": "https://blog.xiaolong0418.com/",
+          "src": "/static/images/xiaobailong.jpg",
+          "name": "小白龙博客",
+          "text": "记录每天进步的点点滴滴"
+        },
+        {
+          "href": "https://juejin.im/",
+          "src": "/static/images/掘金.png",
+          "name": "掘金",
+          "text": "外国开发社区"
+        },
+        {
+          "href": "https://github.com/",
+          "src": "/static/images/GitHub.ico",
+          "name": "GitHub",
+          "text": "代码库"
+        },
+        {
+          "href": "https://gitee.com/",
+          "src": "/static/images/码云.ico",
+          "name": "码云",
+          "text": "代码库"
+        },
+        {
+          "href": "https://www.zhihu.com/",
+          "src": "/static/images/知乎.png",
+          "name": "知乎",
+          "text": "都是牛人"
+        },
+        {
+          "href": "https://stackoverflow.com/",
+          "src": "/static/images/stackoverflow.png",
+          "name": "Stackoverflow",
+          "text": "外国牛人"
+        },
+        {
+          "href": "https://www.coursera.org/",
+          "src": "/static/images/coursera.png",
+          "name": "coursera",
+          "text": "外国IT学习网站"
+        },
+        {
+          "href": "https://www.csdn.net/nav/web",
+          "src": "/static/images/CSDN.ico",
+          "name": "CSDN",
+          "text": "中国IT社区"
+        },
+        {
+          "href": "https://www.oschina.net/",
+          "src": "/static/images/oschina.ico",
+          "name": "Coschina",
+          "text": "中国IT社区"
+        },
+        {
+          "href": "https://www.right.com.cn/forum/",
+          "src": "/static/images/恩山无线论坛.ico",
+          "name": "恩山无线论坛",
+          "text": "上网硬件论坛"
+        },
+        {
+          "href": "https://www.openos.org/",
+          "src": "/static/images/openos.ico",
+          "name": "openos",
+          "text": "群晖论坛"
+        },
+        {
+          "href": "https://www.vpsgo.com/",
+          "src": "/static/images/VPSGO.ico",
+          "name": "VPSGO",
+          "text": "vps评测"
+        },
+        {
+          "href": "https://baiyue.one/",
+          "src": "/static/images/佰阅部落.ico",
+          "name": "佰阅部落",
+          "text": "网站源码"
+        },
+        {
+          "href": "https://www.v2rayssr.com/",
+          "src": "/static/images/V2ray.ico",
+          "name": "V2raySSR",
+          "text": "翻墙论坛"
+        },
+        {
+          "href": "https://www.vpsdx.com/",
+          "src": "/static/images/VPS大学.png",
+          "name": "VPS大学",
+          "text": "VPS推荐"
+        },
+        {
+          "href": "https://www.vpsaff.net/",
+          "src": "/static/images/VPS收割者.png",
+          "name": "VPS收割者",
+          "text": "VPS推荐"
+        },
+        {
+          "href": "https://www.zhujiceping.com/",
+          "src": "/static/images/国外主机评测.ico",
+          "name": "国外主机评测",
+          "text": "VPS推荐"
+        },
+        {
+          "href": "https://stock.bwg.net/",
+          "src": "/static/images/搬瓦工.png",
+          "name": "搬瓦工",
+          "text": "搬瓦工方案库存监控页面"
+        }
+      ]
+    },
+    {
+      "name": "exploit",
+      "class": "el-icon-aliTool",
+      "text": "开发工具",
+      "list": [{
+          "href": "https://tinypng.com/",
+          "src": "/static/images/tinypng.ico",
+          "name": "TinyPNG",
+          "text": "图片压缩"
+        },
+        {
+          "href": "https://www.fontke.com/tool/compressimage/",
+          "src": "/static/images/图片压缩.ico",
+          "name": "图片压缩",
+          "text": "图片压缩"
+        },
+        {
+          "href": "https://docsmall.com/",
+          "src": "/static/images/docsmall.png",
+          "name": "docsmall",
+          "text": "图片压缩"
+        },
+        {
+          "href": "https://www.yasuotu.com/",
+          "src": "/static/images/压缩图.ico",
+          "name": "压缩图",
+          "text": "图片压缩"
+        },
+        {
+          "href": "https://tools.ipip.net/newping.php",
+          "src": "/static/images/ipip.ico",
+          "name": "IPIP",
+          "text": "ping网络连通性"
+        },
+        {
+          "href": "https://www.speedtest.cn/",
+          "src": "/static/images/测速网.ico",
+          "name": "测速网",
+          "text": "测试网络速度"
+        },
+        {
+          "href": "https://FreeSSL.cn/",
+          "src": "/static/images/FreeSSL.cn.ico",
+          "name": "FreeSSL.cn",
+          "text": "SSL证书申请"
+        },
+        {
+          "href": "https://www.gitbook.com/",
+          "src": "/static/images/GitBook.ico",
+          "name": "GitBook",
+          "text": "记录一切"
+        },
+        {
+          "href": "https://www.yuque.com/dashboard",
+          "src": "/static/images/yuque.png",
+          "name": "语雀",
+          "text": "专业的云端知识库"
+        },
+        {
+          "href": "https://note.youdao.com/web/#/file/recent/markdown/WEB80575f5bd4619671a7ad032db131fd6b/",
+          "src": "/static/images/有道云笔记.ico",
+          "name": "有道云笔记",
+          "text": "云端笔记"
+        },
+        {
+          "href": "https://tool.lu/",
+          "src": "/static/images/在线工具.ico",
+          "name": "在线工具",
+          "text": "工具集合"
+        },
+        {
+          "href": "https://www.sojson.com/",
+          "src": "/static/images/JSON.png",
+          "name": "SOJSON",
+          "text": "工具集合"
+        },
+        {
+          "href": "https://www.npmjs.com/",
+          "src": "/static/images/NPM.png",
+          "name": "NPM",
+          "text": "Node软件包管理器"
+        },
+        {
+          "href": "https://www.toptal.com/developers/css/sprite-generator",
+          "src": "/static/images/CSSSprites.png",
+          "name": "CSS Sprites",
+          "text": "多图合一"
+        },
+        {
+          "href": "https://www.easy-mock.com/",
+          "src": "/static/images/Easy-Mock.ico",
+          "name": "Easy-Mock",
+          "text": "后端数据模拟"
+        },
+        {
+          "href": "http://easymock.xiaolong0418.com:7300",
+          "src": "/static/images/Easy-Mock.ico",
+          "name": "Easy-Mock",
+          "text": "个人后端数据模拟"
+        },
+        {
+          "href": "https://caniuse.com/",
+          "src": "/static/images/caniuse.png",
+          "name": "caniuse",
+          "text": "浏览器支持表"
+        },
+        {
+          "href": "http://www.zuohaotu.com/",
+          "src": "/static/images/做好图.ico",
+          "name": "做好图",
+          "text": "图片转ICO"
+        },
+        {
+          "href": "https://www.vps234.com/ipchecker/",
+          "src": "/static/images/Vps234.ico",
+          "name": "Vps234",
+          "text": "检测IP连通性"
+        },
+        {
+          "href": "https://developers.google.com/speed/pagespeed/insights/",
+          "src": "/static/images/PageSpeed见解.ico",
+          "name": "PageSpeed见解",
+          "text": "检测网站性能"
+        },
+        {
+          "href": "https://analytics.google.com/analytics/web/#/report-home/a157349190w221495475p210595989",
+          "src": "/static/images/Analytics.svg",
+          "name": "Analytics",
+          "text": "网站流量分析"
+        },
+        {
+          "href": "https://web.umeng.com/main.php?c=site&a=show",
+          "src": "/static/images/友盟+.ico",
+          "name": "友盟+",
+          "text": "数据统计"
+        },
+        {
+          "href": "https://www.bt.cn/download/linux.html",
+          "src": "/static/images/宝塔面板.ico",
+          "name": "宝塔面板",
+          "text": "服务器运行环境"
+        },
+        {
+          "href": "https://cdnjs.com/",
+          "src": "/static/images/GitHub.ico",
+          "name": "CDNJS",
+          "text": "全球第一CDN公共库"
+        },
+        {
+          "href": "https://www.bootcdn.cn/",
+          "src": "/static/images/BootCDN.ico",
+          "name": "BootCDN",
+          "text": "国内第一CDN公共库"
+        },
+        {
+          "href": "https://mrchportalweb.alipay.com/user/home.htm#/",
+          "src": "/static/images/支付宝.ico",
+          "name": "支付宝",
+          "text": "商家中心"
+        },
+        {
+          "href": "https://www.paypal.com/",
+          "src": "/static/images/PayPal.ico",
+          "name": "PayPal",
+          "text": "外国第三方支付平台"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "class": "el-icon-aliTool",
+      "text": "实用工具",
+      "list": [{
+          "href": "https://dalipan.com/",
+          "src": "/static/images/大力盘搜索.ico",
+          "name": "大力盘搜索",
+          "text": "网盘资源搜索"
+        },
+        {
+          "href": "http://www.qiuziti.com/",
+          "src": "/static/images/求字体.ico",
+          "name": "求字体",
+          "text": "字体识别，字体下载"
+        },
+        {
+          "href": "https://www.qt86.com/",
+          "src": "/static/images/QT86.ico",
+          "name": "QT86",
+          "text": "字体成图"
+        },
+        {
+          "href": "http://www.fonts.net.cn/",
+          "src": "/static/images/字体天下.ico",
+          "name": "字体天下",
+          "text": "字体下载"
+        },
+        {
+          "href": "https://convertio.co/zh/",
+          "src": "/static/images/Convertio.png",
+          "name": "Convertio",
+          "text": "文件转换器"
+        },
+        {
+          "href": "http://www.395.net.cn/",
+          "src": "/static/images/压缩图.ico",
+          "name": "395公章",
+          "text": "公章生成器"
+        },
+        {
+          "href": "https://mail.163.com",
+          "src": "/static/images/163邮箱.ico",
+          "name": "163邮箱",
+          "text": "电话号码邮箱"
+        },
+        {
+          "href": "https://mail.qq.com/",
+          "src": "/static/images/QQ邮箱.png",
+          "name": "QQ邮箱",
+          "text": "QQ自带邮箱"
+        },
+        {
+          "href": "https://mail.google.com/mail/u/0/#inbox",
+          "src": "/static/images/谷歌邮箱.ico",
+          "name": "谷歌邮箱",
+          "text": "谷歌邮箱"
+        },
+        {
+          "href": "https://www.51job.com/",
+          "src": "/static/images/前程无忧.ico",
+          "name": "前程无忧",
+          "text": "海投找工作"
+        },
+        {
+          "href": "https://www.zhipin.com/guangzhou/",
+          "src": "/static/images/BOSS直聘.ico",
+          "name": "BOSS直聘",
+          "text": "精准找工作"
+        },
+        {
+          "href": "https://www.tianyancha.com/",
+          "src": "/static/images/天眼查.ico",
+          "name": "天眼查",
+          "text": "查看企业信息"
+        },
+        {
+          "href": "https://www.kanzhun.com/",
+          "src": "/static/images/看准网.png",
+          "name": "看准网",
+          "text": "找工作,先看准"
+        },
+        {
+          "href": "http://www.gdzwfw.gov.cn/",
+          "src": "/static/images/gdzwfw.ico",
+          "name": "广州政务服务网",
+          "text": "电子服务中心"
+        },
+        {
+          "href": "https://fabiaoqing.com/",
+          "src": "/static/images/发表情包.png",
+          "name": "发表情包",
+          "text": "尔等可敢一战"
+        },
+        {
+          "href": "https://www.52doutu.cn/",
+          "src": "/static/images/我爱斗图.ico",
+          "name": "我爱斗图",
+          "text": "尔等可敢一战"
+        },
+        {
+          "href": "https://weishi.iiilab.com",
+          "src": "/static/images/短视频解析.png",
+          "name": "短视频解析",
+          "text": "视频解析下载"
+        },
+        {
+          "href": "https://vtool.pro/",
+          "src": "/static/images/抖音解析.png",
+          "name": "抖音解析",
+          "text": "视频解析下载"
+        },
+        {
+          "href": "http://www.dspjx.com/zhibo/index.php",
+          "src": "/static/images/直播解析.ico",
+          "name": "直播解析",
+          "text": "视频解析下载"
+        },
+        {
+          "href": "https://www.findyoutube.net/",
+          "src": "/static/images/YouTube.png",
+          "name": "视频下载",
+          "text": "Youtube视频和字幕在线下载"
+        },
+        {
+          "href": "http://weibodang.cn/videoextractor/",
+          "src": "/static/images/WeiboDang.ico",
+          "name": "WeiboDang",
+          "text": "中国区视频解析"
+        },
+        {
+          "href": "https://apkpure.com/cn/",
+          "src": "/static/images/APKPure.webp",
+          "name": "APKPure",
+          "text": "安卓应用下载"
+        },
+        {
+          "href": "https://time.is/zh/",
+          "src": "/static/images/Time.ico",
+          "name": "Time",
+          "text": "各个地区时间"
+        },
+        {
+          "href": "https://voice.google.com/",
+          "src": "/static/images/google_voice.png",
+          "name": "Google Voice",
+          "text": "美国虚拟电话"
+        },
+        {
+          "href": "http://www.shenfendaquan.com/",
+          "src": "/static/images/google_voice.png",
+          "name": "身份信息生成",
+          "text": "身份信息生成"
+        },
+        {
+          "href": "https://smsreceivefree.com/",
+          "src": "/static/images/SMSReceiveFree.ico",
+          "name": "SMSReceiveFree",
+          "text": "短信免费接收"
+        },
+        {
+          "href": "https://cli.im/",
+          "src": "/static/images/草料二维码.ico",
+          "name": "草料二维码",
+          "text": "生成二维码"
+        },
+        {
+          "href": "https://chrome.google.com/webstore/category/themes?hl=zh-CN",
+          "src": "/static/images/谷歌浏览器.svg",
+          "name": "chrome 网上应用店",
+          "text": "谷歌浏览器插件"
+        },
+        {
+          "href": "http://www.10jqka.com.cn/",
+          "src": "/static/images/同花顺财经.ico",
+          "name": "同花顺财经",
+          "text": "股票/基金曲线图"
+        },
+        {
+          "href": "https://www.amap.com/",
+          "src": "/static/images/高德地图.ico",
+          "name": "高德地图",
+          "text": "中国最好的导航"
+        },
+        {
+          "href": "https://www.google.com/maps/@35.274241,160.2981017,3z?hl=zh-CN",
+          "src": "/static/images/谷歌地图.ico",
+          "name": "谷歌地图",
+          "text": "外国最好的导航"
+        },
+        {
+          "href": "https://ad.oceanengine.com/",
+          "src": "/static/images/巨量引擎.ico",
+          "name": "巨量引擎",
+          "text": "广告投放平台"
+        },
+        {
+          "href": "https://agent.oceanengine.com/",
+          "src": "/static/images/巨量引擎.ico",
+          "name": "巨量引擎",
+          "text": "代理商平台"
+        },
+        {
+          "href": "https://promotelink.xiaolong0418.com/",
+          "src": "/static/images/xiaobailong.jpg",
+          "name": "推广链接生成",
+          "text": "小白龙推广链接生成平台"
+        },
+        {
+          "href": "https://cas.baidu.com/?tpl=www2&fromu=http%3A%2F%2Fwww2.baidu.com%2Fcommon%2Fappinit.ajax",
+          "src": "/static/images/百度营销.ico",
+          "name": "百度营销",
+          "text": "广告投放平台"
+        },
+        {
+          "href": "https://data.appgrowing.cn/leaflet/list",
+          "src": "/static/images/Appgrowing.ico",
+          "name": "Appgrowing",
+          "text": "广告素材搜索"
+        },
+        {
+          "href": "https://www.adbug.cn/",
+          "src": "/static/images/ADBUG.png",
+          "name": "ADBUG",
+          "text": "广告素材搜索"
+        },
+        {
+          "href": "http://ad1024.com/",
+          "src": "/static/images/FeedsRadar.ico",
+          "name": "FeedsRadar",
+          "text": "信息流雷达"
+        },
+        {
+          "href": "https://www.cqado.com.cn/",
+          "src": "/static/images/CQADO.png",
+          "name": "CQADO",
+          "text": "广告素材搜索"
+        },
+        {
+          "href": "https://bigbigads.io/",
+          "src": "/static/images/BigBigAds.ico",
+          "name": "BigBigAds",
+          "text": "广告素材情报分析"
+        },
+        {
+          "href": "https://www.erlangcha.com/",
+          "src": "/static/images/二郎查.png",
+          "name": "二郎查",
+          "text": "二类电商爆品分析"
+        }
+      ]
+    },
+    {
+      "name": "Leisure-and-Entertainment",
+      "class": "el-icon-aliEntertainment",
+      "text": "文娱休闲",
+      "list": [{
+          "href": "https://www.youku.com/",
+          "src": "/static/images/优酷.svg",
+          "name": "优酷",
+          "text": "综艺好看"
+        },
+        {
+          "href": "https://www.iqiyi.com/",
+          "src": "/static/images/爱奇艺.ico",
+          "name": "爱奇艺",
+          "text": "电视剧好看"
+        },
+        {
+          "href": "https://v.qq.com/",
+          "src": "/static/images/腾讯视频.ico",
+          "name": "腾讯视频",
+          "text": "动漫好看"
+        },
+        {
+          "href": "https://www.bilibili.com/",
+          "src": "/static/images/哔哩哔哩.ico",
+          "name": "哔哩哔哩",
+          "text": "动漫好看"
+        },
+        {
+          "href": "https://www.youtube.com/",
+          "src": "/static/images/YouTube.png",
+          "name": "YouTube",
+          "text": "外国最大的视频网站"
+        },
+        {
+          "href": "https://www.netflix.com/",
+          "src": "/static/images/Netflix.ico",
+          "name": "Netflix",
+          "text": "外国最大的电影网站"
+        },
+        {
+          "href": "https://www.hulu.com/",
+          "src": "/static/images/Hulu.png",
+          "name": "Hulu",
+          "text": "美国在线直播电视和电影"
+        },
+        {
+          "href": "https://www.hbo.com/",
+          "src": "/static/images/HBO.jpg",
+          "name": "HBO",
+          "text": "美国电影喜剧纪录片"
+        },
+        {
+          "href": "https://www.disneyplus.com/",
+          "src": "/static/images/Disney+.ico",
+          "name": "Disney+",
+          "text": "美国电影网站"
+        },
+        {
+          "href": "https://www.mytvsuper.com/",
+          "src": "/static/images/myTVsuper.ico",
+          "name": "myTVsuper",
+          "text": "香港电影网站"
+        },
+        {
+          "href": "https://ani.gamer.com.tw/",
+          "src": "/static/images/动漫疯.ico",
+          "name": "动漫疯",
+          "text": "台湾电影网站"
+        },
+        {
+          "href": "https://www.foxplus.com/",
+          "src": "/static/images/F0X+.png",
+          "name": "F0X+",
+          "text": "香港电影网站"
+        },
+        {
+          "href": "https://abema.tv/",
+          "src": "/static/images/AbemaTV.ico",
+          "name": "AbemaTV",
+          "text": "日本直播网站"
+        },
+        {
+          "href": "https://www.nicovideo.jp/",
+          "src": "/static/images/nicovideo.ico",
+          "name": "nicovideo",
+          "text": "日本动漫视频网站"
+        },
+        {
+          "href": "https://www.dytt8.net/",
+          "src": "/static/images/电影天堂.ico",
+          "name": "电影天堂",
+          "text": "磁力电影"
+        },
+        {
+          "href": "https://www.agefans.net",
+          "src": "/static/images/AGE动漫.ico",
+          "name": "AGE动漫",
+          "text": "动漫网站"
+        },
+        {
+          "href": "http://www.yhdm.io/",
+          "src": "/static/images/樱花动漫.ico",
+          "name": "樱花动漫",
+          "text": "动漫网站"
+        },
+        {
+          "href": "https://www.zxzj.me/",
+          "src": "/static/images/在线之家.ico",
+          "name": "在线之家",
+          "text": "在线视频"
+        },
+        {
+          "href": "https://www.88ys.com/",
+          "src": "/static/images/88影视网.ico",
+          "name": "88影视网",
+          "text": "在线视频"
+        },
+        {
+          "href": "https://www.douyu.com/",
+          "src": "/static/images/斗鱼.ico",
+          "name": "斗鱼",
+          "text": "主播平台"
+        },
+        {
+          "href": "https://www.huya.com/",
+          "src": "/static/images/虎牙.ico",
+          "name": "虎牙",
+          "text": "主播平台"
+        },
+        {
+          "href": "https://theporndude.com/zh",
+          "src": "/static/images/PornDude.webp",
+          "name": "Porn Dude",
+          "text": "成人世界的大门"
+        },
+
+        {
+          "href": "https://www.aimanzhan.com",
+          "src": "/static/images/爱漫展.ico",
+          "name": "爱漫展",
+          "text": "了解最新漫展信息"
+        },
+        {
+          "href": "https://mp.toutiao.com/profile_v3/xigua",
+          "src": "/static/images/头条.png",
+          "name": "头条号",
+          "text": "内容推广"
+        },
+        {
+          "href": "https://www.weibo.com/login.php",
+          "src": "/static/images/新浪.ico",
+          "name": "新浪",
+          "text": "内容推广"
+        },
+        {
+          "href": "https://www.facebook.com/",
+          "src": "/static/images/Facebook.ico",
+          "name": "Facebook",
+          "text": "外国社交"
+        },
+        {
+          "href": "https://twitter.com/home",
+          "src": "/static/images/Twitter.ico",
+          "name": "Twitter",
+          "text": "外国社交"
+        }, {
+          "href": "https://music.163.com",
+          "src": "/static/images/网易云音乐.ico",
+          "name": "网易云音乐",
+          "text": "评论史诗级"
+        },
+        {
+          "href": "https://y.qq.com/",
+          "src": "/static/images/QQ音乐.ico",
+          "name": "QQ音乐",
+          "text": "版权最全"
+        },
+        {
+          "href": "http://www.gequdaquan.net/gqss/",
+          "src": "/static/images/歌曲大全.ico",
+          "name": "歌曲大全",
+          "text": "音乐聚合搜索引擎"
+        },
+        {
+          "href": "http://www.kugou.com/",
+          "src": "/static/images/酷狗音乐.ico",
+          "name": "酷狗音乐",
+          "text": "哈喽，酷狗！"
+        },
+        {
+          "href": "https://www.ximalaya.com/",
+          "src": "/static/images/喜马拉雅.ico",
+          "name": "喜马拉雅",
+          "text": "听书"
+        },
+        {
+          "href": "https://www.lrts.me/",
+          "src": "/static/images/懒人听书.ico",
+          "name": "懒人听书",
+          "text": "听书"
+        },
+        {
+          "href": "https://www.taobao.com/",
+          "src": "/static/images/淘宝.ico",
+          "name": "淘宝",
+          "text": "中国第一"
+        },
+        {
+          "href": "https://www.jd.com",
+          "src": "/static/images/京东.ico",
+          "name": "京东",
+          "text": "买数码上京东"
+        },
+        {
+          "href": "https://www.amazon.cn/",
+          "src": "/static/images/亚马逊.ico",
+          "name": "亚马逊商城",
+          "text": "外国第一"
+        },
+        {
+          "href": "https://www.mi.com/",
+          "src": "/static/images/小米商城.ico",
+          "name": "小米商城",
+          "text": "小米生态"
+        },
+        {
+          "href": "https://www.apple.com/",
+          "src": "/static/images/Apple.ico",
+          "name": "Apple",
+          "text": "苹果商城"
+        },
+        {
+          "href": "https://www.xiaomiyoupin.com/",
+          "src": "/static/images/小米有品.ico",
+          "name": "小米有品",
+          "text": "小米生态"
+        },
+        {
+          "href": "https://www.dcard.tw/f",
+          "src": "/static/images/Dcard.webp",
+          "name": "Dcard",
+          "text": "台湾社区"
+        },
+        {
+          "href": "https://forum.hkgolden.com/channel/BW",
+          "src": "/static/images/吹水台.ico",
+          "name": "吹水台",
+          "text": "香港高登討論區"
+        },
+        {
+          "href": "https://mo.fish/",
+          "src": "/static/images/fish.ico",
+          "name": "鱼塘热榜",
+          "text": "上班摸鱼网站"
+        }
+      ]
+    },
+    {
+      "name": "Cloud-Server",
+      "class": "el-icon-aliCloud-Server",
+      "text": "云端服务",
+      "list": [{
+          "href": "https://www.aliyun.com/minisite/goods?userCode=3xxeu8uc",
+          "src": "/static/images/阿里云.ico",
+          "name": "阿里云",
+          "text": "中国区"
+        },
+        {
+          "href": "https://cloud.tencent.com/act/cps/redirect?redirect=1053&cps_key=789d07ea8be50b3706f29b464fe131ad&from=console",
+          "src": "/static/images/腾讯云.ico",
+          "name": "腾讯云",
+          "text": "中国区"
+        },
+        {
+          "href": "https://www.west.cn/",
+          "src": "/static/images/西部数据.ico",
+          "name": "西部数据",
+          "text": "中国区"
+        },
+        {
+          "href": "https://www.alibabacloud.com/",
+          "src": "/static/images/阿里云.ico",
+          "name": "阿里云",
+          "text": "美国区"
+        },
+        {
+          "href": "https://cloud.google.com/?hl=zh-CN",
+          "src": "/static/images/谷歌云.ico",
+          "name": "谷歌云",
+          "text": "外币信用卡送300美金"
+        },
+        {
+          "href": "https://portal.azure.com/",
+          "src": "/static/images/微软云.ico",
+          "name": "微软云",
+          "text": "白嫖一年"
+        },
+        {
+          "href": "https://aws.amazon.com",
+          "src": "/static/images/亚马逊.ico",
+          "name": "亚马逊云",
+          "text": "有信用卡可以白嫖一年"
+        },
+        {
+          "href": "https://www.ucloud.cn/",
+          "src": "/static/images/UCloud.ico",
+          "name": "UCloud",
+          "text": "建站服务器"
+        },
+        {
+          "href": "https://www.vultr.com/?ref=8439176-6G",
+          "src": "/static/images/vultr.png",
+          "name": "Vultr",
+          "text": "注册就送100美金"
+        },
+        {
+          "href": "https://bandwagonhost.com/aff.php?aff=57350",
+          "src": "/static/images/搬瓦工.png",
+          "name": "搬瓦工",
+          "text": "中国优化线路"
+        },
+        {
+          "href": "https://my.hostkvm.com/aff.php?aff=886",
+          "src": "/static/images/HostKvm.ico",
+          "name": "HostKvm",
+          "text": "中国建站推荐"
+        },
+        {
+          "href": "https://www.dmit.io/aff.php?aff=1001",
+          "src": "/static/images/DMIT.ico",
+          "name": "DMIT",
+          "text": "美国原生服务器"
+        },
+        {
+          "href": "https://kvm.yunserver.com/aff.php?aff=863",
+          "src": "/static/images/极光KVM.ico",
+          "name": "极光KVM",
+          "text": "美国/日本/香港"
+        },
+        {
+          "href": "https://666clouds.com/aff.php?aff=43",
+          "src": "/static/images/极光KVM.ico",
+          "name": "六六云",
+          "text": "美国原生服务器"
+        },
+        {
+          "href": "https://www.inkisp.com/aff.php?aff=99",
+          "src": "/static/images/极光KVM.ico",
+          "name": "水墨云",
+          "text": "美国大带宽服务器"
+        },
+        {
+          "href": "https://www.xiuluohost.com/?aff=67904",
+          "src": "/static/images/修罗云.ico",
+          "name": "修罗云",
+          "text": "香港大带宽"
+        },
+        {
+          "href": "https://nbhosts.com/aff.php?aff=52",
+          "src": "/static/images/浩瀚星辰.png",
+          "name": "浩瀚星辰",
+          "text": "日本原生服务器"
+        },
+        {
+          "href": "https://www.combcloud.net/aff.php?aff=44",
+          "src": "/static/images/CombCloud.ico",
+          "name": "CombCloud",
+          "text": "香港原生服务器"
+        },
+        {
+          "href": "https://kiwivm.64clouds.com/main.php",
+          "src": "/static/images/搬瓦工.png",
+          "name": "搬瓦工",
+          "text": "后台管理"
+        },
+        {
+          "href": "http://router.asus.com/Main_Login.asp",
+          "src": "/static/images/RT.png",
+          "name": "公司路由器",
+          "text": "后台管理"
+        },
+        {
+          "href": "http://192.168.123.1/",
+          "src": "/static/images/小米路由器.ico",
+          "name": "小米路由器",
+          "text": "后台管理"
+        },
+        {
+          "href": "http://192.168.50.163:5000/",
+          "src": "/static/images/DSM.ico",
+          "name": "群晖系统",
+          "text": "公司文件共享"
+        },
+        {
+          "href": "http://45.133.119.107:43990/",
+          "src": "/static/images/宝塔面板.ico",
+          "name": "服务器-小白龙副",
+          "text": "宝塔管理界面"
+        },
+        {
+          "href": "http://152.32.240.226:43990/long99",
+          "src": "/static/images/宝塔面板.ico",
+          "name": "服务器-小白龙主",
+          "text": "宝塔管理界面"
+        },
+        {
+          "href": "http://121.40.29.227:8888/36979603/",
+          "src": "/static/images/宝塔面板.ico",
+          "name": "服务器-银湖",
+          "text": "宝塔管理界面"
+        },
+        {
+          "href": "http://152.32.254.203:43990/r1Nz5JBG",
+          "src": "/static/images/宝塔面板.ico",
+          "name": "服务器win-公司",
+          "text": "宝塔管理界面"
+        },
+        {
+          "href": "http://211.149.226.26:8887/btwest/",
+          "src": "/static/images/宝塔面板.ico",
+          "name": "服务器-于龙",
+          "text": "宝塔管理界面"
+        },
+        {
+          "href": "http://120.27.8.212:8888/6996467e/",
+          "src": "/static/images/宝塔面板.ico",
+          "name": "服务器-莎莉",
+          "text": "宝塔管理界面"
+        },
+        {
+          "href": "http://152.32.240.226:8080",
+          "src": "/static/images/jenkins.ico",
+          "name": "JenKins",
+          "text": "持续集成(CI)工具"
+        },
+        {
+          "href": "http://wx.yaoqianshu888.cn/index.php/wx/Index/index.html",
+          "src": "/static/images/wx.ico",
+          "name": "悟空微信换号系统",
+          "text": "管理界面"
+        },
+        {
+          "href": "https://v2b.xiaolong0418.com",
+          "src": "/static/images/V2Board.png",
+          "name": "合资小分队",
+          "text": "节点登陆"
+        },
+        {
+          "href": "https://v2b.xiaolong0418.com/admin#/dashboard",
+          "src": "/static/images/V2Board.png",
+          "name": "合资小分队",
+          "text": "节点管理"
+        },
+        {
+          "href": "https://www.namecheap.com/",
+          "src": "/static/images/namecheap.ico",
+          "name": "Namecheap",
+          "text": "外国域名购买"
+        },
+        {
+          "href": "https://www.82mi.com/",
+          "src": "/static/images/中域网络.ico",
+          "name": "中域网络",
+          "text": "二手域名购买"
+        },
+        {
+          "href": "https://portal.qiniu.com/create",
+          "src": "/static/images/七牛云.ico",
+          "name": "七牛云",
+          "text": "CDN加速"
+        },
+        {
+          "href": "https://dash.cloudflare.com/",
+          "src": "/static/images/Cloudflare.ico",
+          "name": "Cloudflare",
+          "text": "DNS解析，CDN加速"
+        },
+        {
+          "href": "https://steamsv.com/aff.php?aff=110",
+          "src": "/static/images/Cloudflare.ico",
+          "name": "STEAMSV",
+          "text": "流媒体解锁"
+        }
+      ]
+    },
+    {
+      "name": "common software",
+      "class": "icon-Software",
+      "text": "常用软件",
+      "list": [{
+          "href": "https://u.tools/download.html",
+          "src": "/static/images/uTools.png",
+          "name": "uTools",
+          "text": "各种小工具集合"
+        },
+        {
+          "href": "https://tim.qq.com/download.html",
+          "src": "/static/images/TIM.png",
+          "name": "TIM",
+          "text": "简约风格"
+        },
+        {
+          "href": "https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6",
+          "src": "/static/images/微信.ico",
+          "name": "微信",
+          "text": "沟通工具第一"
+        },
+        {
+          "href": "https://applink.feishu.cn/client/op/open",
+          "src": "/static/images/飞书.ico",
+          "name": "飞书",
+          "text": "公司团队合作"
+        },
+        {
+          "href": "https://telegram.org/",
+          "src": "/static/images/Telegram.ico",
+          "name": "Telegram",
+          "text": "消息传递的新时代"
+        },
+        {
+          "href": "http://www.lianty.com/",
+          "src": "/static/images/链图网.ico",
+          "name": "链图网",
+          "text": "匹配字体"
+        },
+        {
+          "href": "https://www.firefox.com.cn/",
+          "src": "/static/images/火狐浏览器.png",
+          "name": "火狐浏览器",
+          "text": "中国浏览器"
+        },
+        {
+          "href": "https://www.google.com/intl/zh-CN/chrome/",
+          "src": "/static/images/谷歌浏览器.svg",
+          "name": "谷歌浏览器",
+          "text": "开发必备"
+        },
+        {
+          "href": "http://www.potplayer.org/",
+          "src": "/static/images/PotPlayer.ico",
+          "name": "PotPlayer",
+          "text": "视频播放器"
+        },
+        {
+          "href": "https://www.xmind.cn/download/",
+          "src": "/static/images/XMind.ico",
+          "name": "XMind",
+          "text": "思维导图"
+        },
+        {
+          "href": "https://pc.wps.cn/",
+          "src": "/static/images/WPS.ico",
+          "name": "WPS",
+          "text": "文档处理"
+        },
+        {
+          "href": "https://www.typora.io/",
+          "src": "/static/images/Typora.png",
+          "name": "Typora",
+          "text": "强大的文本编辑软件"
+        },
+        {
+          "href": "https://www.huorong.cn/",
+          "src": "/static/images/火绒安全.ico",
+          "name": "火绒安全",
+          "text": "杀毒软件"
+        },
+        {
+          "href": "https://www.teamviewer.cn/cn/download/windows/",
+          "src": "/static/images/TeamViewer.webp",
+          "name": "TeamViewer",
+          "text": "远程控制桌面"
+        },
+        {
+          "href": "https://zoom.us/download",
+          "src": "/static/images/Zoom.ico",
+          "name": "Zoom",
+          "text": "远程视频会议"
+        },
+        {
+          "href": "http://mail.163.com/dashi/",
+          "src": "/static/images/网易邮箱大师.ico",
+          "name": "网易邮箱大师",
+          "text": "多邮箱合一"
+        },
+        {
+          "href": "https://pan.baidu.com/download",
+          "src": "/static/images/百度网盘.ico",
+          "name": "百度网盘",
+          "text": "万恶的资本家"
+        },
+        {
+          "href": "https://music.163.com/#/download",
+          "src": "/static/images/网易云音乐.ico",
+          "name": "网易云音乐",
+          "text": "88会员音乐"
+        },
+        {
+          "href": "https://cn.bandisoft.com/bandizip/",
+          "src": "/static/images/BandiZip.ico",
+          "name": "BandiZip",
+          "text": "文件压缩解压工具"
+        },
+        {
+          "href": "https://github.com/2dust/v2rayN/releases",
+          "src": "/static/images/GitHub.ico",
+          "name": "V2rayN",
+          "text": "V2ray window桌面连接软件"
+        },
+        {
+          "href": "https://github.com/2dust/v2rayNG/releases",
+          "src": "/static/images/GitHub.ico",
+          "name": "V2rayNG",
+          "text": "V2ray 安卓连接软件"
+        },
+        {
+          "href": "https://github.com/Cenmrev/V2RayX",
+          "src": "/static/images/GitHub.ico",
+          "name": "V2rayX",
+          "text": "V2ray 苹果桌面连接软件"
+        },
+        {
+          "href": "https://qv2ray.github.io/",
+          "src": "/static/images/Qv2ray.png",
+          "name": "Qv2ray",
+          "text": "V2ray 桌面连接软件"
+        },
+        {
+          "href": "https://apps.apple.com/us/app/shadowrocket/id932747118",
+          "src": "/static/images/GitHub.ico",
+          "name": "Shadowrocket",
+          "text": "V2ray 苹果手机连接软件"
+        },
+        {
+          "href": "https://code.visualstudio.com/Download",
+          "src": "/static/images/Visual Studio Code.png",
+          "name": "Visual Studio Code",
+          "text": "编程软件"
+        },
+        {
+          "href": "https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html",
+          "src": "/static/images/微信小程序.ico",
+          "name": "微信小程序",
+          "text": "编程软件"
+        },
+        {
+          "href": "https://www.dcloud.io/hbuilderx.html",
+          "src": "/static/images/HBuilder X.png",
+          "name": "HBuilder X",
+          "text": "编程软件"
+        },
+        {
+          "href": "https://www.navicat.com.cn/download/navicat-premium",
+          "src": "/static/images/Navicat.png",
+          "name": "Navicat",
+          "text": "数据库连接软件"
+        },
+        {
+          "href": "https://www.xp.cn/download.html",
+          "src": "/static/images/PHPStudy.ico",
+          "name": "PHPStudy",
+          "text": "服务端运行环境"
+        },
+        {
+          "href": "https://www.netsarang.com/zh/xshell/",
+          "src": "/static/images/Xshell6.ico",
+          "name": "Xshell 6",
+          "text": "业界最强大的SSH客户机"
+        },
+        {
+          "href": "http://www.hostbuf.com/t/988.html",
+          "src": "/static/images/Xshell6.ico",
+          "name": "FinalShell ",
+          "text": "SSH连接与文件传输"
+        },
+        {
+          "href": "https://www.filezilla.cn/download/client",
+          "src": "/static/images/FileZilla.png",
+          "name": "FileZilla",
+          "text": "FTP文件传输"
+        },
+        {
+          "href": "https://www.getpostman.com/downloads/",
+          "src": "/static/images/postman.png",
+          "name": "Postman",
+          "text": "API接口测试"
+        },
+        {
+          "href": "https://www.sourcetreeapp.com/",
+          "src": "/static/images/Sourcetree.ico",
+          "name": "Sourcetree",
+          "text": "图形化Git客户端"
+        },
+        {
+          "href": "https://desktop.github.com/",
+          "src": "/static/images/GitHub.ico",
+          "name": "GitHub Desktop",
+          "text": "图形化Git客户端"
+        },
+        {
+          "href": "https://www.xftsoft.com/",
+          "src": "/static/images/小飞兔.ico",
+          "name": "小飞兔",
+          "text": "网站扒站工具"
+        },
+        {
+          "href": "https://www.i4.cn/",
+          "src": "/static/images/爱思助手.png",
+          "name": "爱思助手",
+          "text": "苹果刷机工具"
+        },
+        {
+          "href": "http://www.pcgeshi.com/download.html",
+          "src": "/static/images/格式工厂.png",
+          "name": "格式工厂",
+          "text": "文件格式转换"
+        },
+        {
+          "href": "https://www.ieway.cn/evcapture.html",
+          "src": "/static/images/EV录屏.ico",
+          "name": "EV录屏",
+          "text": "录屏软件"
+        },
+        {
+          "href": "https://www.yeshen.com/",
+          "src": "/static/images/夜神模拟器.ico",
+          "name": "夜神模拟器",
+          "text": "安卓模拟器"
+        },
+        {
+          "href": "http://www.laomaotao.org/",
+          "src": "/static/images/老毛桃.ico",
+          "name": "老毛桃",
+          "text": "U盘启动盘"
+        }
+      ]
+    }
+  ]
+}
